@@ -56,7 +56,6 @@ lessons:
     day: weekend
     type: lesson
     repo: career-services-full-stack
-    directory: internship-and-job-search
   - title: Internship Coursework and Career Reviews
     filename: 0jab_internship_coursework_and_career_reviews.md
     day: weekend
@@ -78,4 +77,3 @@ lessons:
     day: weekend
     type: lesson
     repo: career-services-full-stack
-    directory: student-handbook
