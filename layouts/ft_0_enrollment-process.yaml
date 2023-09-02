@@ -1,0 +1,7 @@
+section: Enrollment Process
+repo: pre-work-full-stack
+lessons:
+  - title: Communicating By Email
+    filename: communicating-via-email-lesson.md
+    day: weekend
+    type: lesson
