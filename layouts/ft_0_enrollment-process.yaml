@@ -1,7 +1,6 @@
 section: Enrollment Process
 order: 1
 repo: pre-work-full-stack
-directory: 1_enrollment-process
 lessons:
   - title: Communicating By Email
     filename: communicating-via-email-lesson.md

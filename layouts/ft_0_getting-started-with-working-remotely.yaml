@@ -1,7 +1,6 @@
 section: Getting Started with Working Remotely
 order: 3
 repo: pre-work-full-stack
-directory: 3_getting-started-with-working-remotely
 lessons:
   - title: All Students Learn Remote Collaboration Tools
     filename: 00a_introduction_to_preparing_remote.md

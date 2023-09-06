@@ -1,7 +1,6 @@
 section: Getting Started with Intro to Programming
 order: 4
 repo: pre-work-full-stack
-directory: 4_getting-started-with-intro-to-programming
 lessons:
   - title: Welcome to Intro
     filename: 0a_welcome_to_intro.md

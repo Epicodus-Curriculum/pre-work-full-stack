@@ -1,7 +1,6 @@
 section: Getting Started at Epicodus
 order: 2
 repo: pre-work-full-stack
-directory: 2_getting-started-at-epicodus
 lessons:
   - title: Learn How to Program
     filename: 0a_learn_how_to_program.md
