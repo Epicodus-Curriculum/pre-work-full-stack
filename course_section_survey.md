@@ -2,7 +2,7 @@ This is a survey for the previous course section you just completed at the end o
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScCiqTGNRhjwjyGrMYuJiUvpgT2zj-qP6BXUqCPA-DoSWct4g/viewform?embedded=true" width="100%" height="1439" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
-<hr>
+<hr />
 
 If you’re having difficulties with a peer, please be sure to also regularly fill out **pair feedback** in Epicenter. This helps us aggregate feedback regarding working with that person. We'll only talk to that person if we start to see a pattern of bad pairing experiences. 
 
