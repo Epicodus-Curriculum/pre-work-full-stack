@@ -8,7 +8,7 @@ Your cohort will have a number of text channels automatically provided — but a
 
 In order to DM with other students, you first need to be friends in Discord. In order to do a group DM with your dev team, you need to be friends with _all_ the members of your dev team.
 
-To add someone as your friend in Discord, right click their Discord name and select _Add Friend_. In the example below, Brooke has right-clicked Cathy’s name and a menu has popped up.
+To add someone as your friend in Discord, right click their Discord name and select _Add Friend_. In the example below, Brooke has right-clicked Cathy's name and a menu has popped up.
 
 !["Add friend" is showing in the menu in Discord.](https://learnhowtoprogram.s3.us-west-2.amazonaws.com/INTRO/week1-html-css/remote_images_2021/add-friend-in-discord.png)
 

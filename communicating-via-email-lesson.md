@@ -54,7 +54,7 @@ Here's how this same request could be better communicated:
 
 > Hi Michael,
 
-> I’m interested in learning more about Epicodus’ full time Ruby/JavaScript/React program. I’ve read your FAQ’s, and perused the curriculum, and am very excited about the pair programming and flipped classroom model. Do you have time next week for a short phone call to talk through questions I have?
+> I’m interested in learning more about Epicodus’ full time Ruby/JavaScript/React program. I’ve read your FAQ's, and perused the curriculum, and am very excited about the pair programming and flipped classroom model. Do you have time next week for a short phone call to talk through questions I have?
 
 > Thanks for your time!
 
@@ -90,7 +90,7 @@ Here's an example of what an email might look like:
 
 > Hey Epicodus!
 
-> As someone with no coding experience, I’m really looking forward to delving into the world of software development! I love getting out of my comfort zone and trying new things, and doing so is even better in a group. I consider myself patient and a team player, so whether I’m slow on the uptake or I need to help my partner get up to speed, it’s all part of the experience to me. I’m excited to start at Epicodus and get to know my future classmates!
+> As someone with no coding experience, I’m really looking forward to delving into the world of software development! I love getting out of my comfort zone and trying new things, and doing so is even better in a group. I consider myself patient and a team player, so whether I’m slow on the uptake or I need to help my partner get up to speed, it's all part of the experience to me. I’m excited to start at Epicodus and get to know my future classmates!
 
 > -- Lily
 
