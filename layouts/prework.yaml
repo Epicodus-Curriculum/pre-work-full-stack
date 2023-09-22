@@ -1,5 +1,5 @@
 title: Prework
-show_weeks_and_days: true
+show_weeks_and_days: false
 homepage: index.md
 sections:
   - ft_0_enrollment-process.yaml
