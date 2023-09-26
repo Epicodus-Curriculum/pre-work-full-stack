@@ -11,4 +11,4 @@ You will learn about the following:
 * Daily schedule and attendance policy
 * Troubleshooting remote issues
 
-As a general reminder, **before the start of class you should make sure to read through all of the sections listed as pre-work in the [Introduction to Programming Course](https://www.learnhowtoprogram.com/introduction-to-programming).** After you complete those readings, you will be ready to go for the first day of class!
+As a general reminder, **before the start of class you should make sure to read through all of the sections listed as pre-work in the [Introduction to Programming Course](https://new.learnhowtoprogram.com/introduction-to-programming).** After you complete those readings, you will be ready to go for the first day of class!
