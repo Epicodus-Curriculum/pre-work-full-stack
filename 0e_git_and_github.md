@@ -81,7 +81,7 @@ or
 $ code ~/.zshrc
 ```
 
-If you get an error about the keyword `code` not being recognized, this means that you need to configure your shell to recognize that keyword. Review the setup and instructions for VS Code [in this lesson](https://new.learnhowtoprogram.com/introduction-to-programming/getting-started-with-intro-to-programming/text-editor-visual-studio-code#configuring-the-code-command). If you are still having issues, ask an instructor for help. It's not necessary to be able to view and open your shell configuration files right now.
+If you get an error about the keyword `code` not being recognized, this means that you need to configure your shell to recognize that keyword. Review the setup and instructions for VS Code [in this lesson](https://new.learnhowtoprogram.com/prework/getting-started-with-intro-to-programming/text-editor-visual-studio-code#configuring-the-code-command). If you are still having issues, ask an instructor for help. It's not necessary to be able to view and open your shell configuration files right now.
 
 ### [Installing Git](#installing-git)
 
@@ -97,7 +97,7 @@ Done!
 
 ---
 
-After installing Git Bash on your Windows machine, as instructed in the [Introduction to the Command Line](https://new.learnhowtoprogram.com/introduction-to-programming/getting-started-with-intro-to-programming/introduction-to-the-command-line) lesson, Git should be ready to use within your Git Bash program.  
+After installing Git Bash on your Windows machine, as instructed in the [Introduction to the Command Line](https://new.learnhowtoprogram.com/prework/getting-started-with-intro-to-programming/introduction-to-the-command-line) lesson, Git should be ready to use within your Git Bash program.  
 
 ## [Creating a GitHub Account](#creating-a-github-account)
 

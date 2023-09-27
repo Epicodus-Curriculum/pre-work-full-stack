@@ -6,7 +6,7 @@ If you have a question or issue, research as a pair for at least 20 minutes but 
 
 ---
 
-If you and your pair are unable to find a solution after debugging and doing your own research, reach out to other pair groups. A big part of learning is sharing and collaboration. Don't be shy about going into another group's pair channel (online) or going to another group's desk (in-person) to ask for help. Use these [tips](https://new.learnhowtoprogram.com/pre-work/getting-started-at-epicodus/how-to-ask-for-help) to explain the problem and use the following formula for asking questions:
+If you and your pair are unable to find a solution after debugging and doing your own research, reach out to other pair groups. A big part of learning is sharing and collaboration. Don't be shy about going into another group's pair channel (online) or going to another group's desk (in-person) to ask for help. Use these [tips](https://new.learnhowtoprogram.com/prework/getting-started-at-epicodus/how-to-ask-for-help) to explain the problem and use the following formula for asking questions:
 
 > "When I {do thing}, the program should {do response thing}. But instead it {does unexpected thing}. I've tried {debugging and research}."
 

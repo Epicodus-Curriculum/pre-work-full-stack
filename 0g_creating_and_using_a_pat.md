@@ -100,7 +100,7 @@ You can verify this by doing a spotlight search (the magnifying glass in the upp
 
 ### [Windows Users — Managing PATs with Window's Credential Manager](#windows-users-managing-pats-with-windows-credential-manager)
 
-When you installed Git Bash in [Introduction to the Command Line](https://new.learnhowtoprogram.com/introduction-to-programming/getting-started-with-intro-to-programming/introduction-to-the-command-line), you were prompted to install _Git Credential Manager_. The first time you push or pull a repo from your GitHub account, Git Bash will ask you to log in by opening GitHub in the browser. Then you'll be prompted to give permission to Git Credential Manager to store your credentials. As long as you are on your personal computer and not a shared computer, you should do so. Alternatively, if you are on a shared machine, you'll be given the option to use a PAT instead.
+When you installed Git Bash in [Introduction to the Command Line](https://new.learnhowtoprogram.com/prework/getting-started-with-intro-to-programming/introduction-to-the-command-line), you were prompted to install _Git Credential Manager_. The first time you push or pull a repo from your GitHub account, Git Bash will ask you to log in by opening GitHub in the browser. Then you'll be prompted to give permission to Git Credential Manager to store your credentials. As long as you are on your personal computer and not a shared computer, you should do so. Alternatively, if you are on a shared machine, you'll be given the option to use a PAT instead.
 
 If you allow Git Credential Manager to store your credentials, the next time you push or pull, you won't need to worry about entering your credentials and you won't be prompted to log into GitHub.
 

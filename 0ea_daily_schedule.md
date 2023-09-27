@@ -68,7 +68,7 @@ At the end of each course section, you will work on independent projects that co
 
 Students _must_ submit their code review projects by the specified deadline.  
 
-For more details on code reviews, read the lesson on [Independent Projects and Code Reviews](https://new.learnhowtoprogram.com/pre-work/getting-started-at-epicodus/independent-projects-and-code-reviews).
+For more details on code reviews, read the lesson on [Independent Projects and Code Reviews](https://new.learnhowtoprogram.com/prework/getting-started-at-epicodus/independent-projects-and-code-reviews).
 
 ## [Recurring Surveys](#recurring-surveys)
 
