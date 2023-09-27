@@ -4,7 +4,7 @@ Welcome to Intro to Programming! You are taking your first steps on the journey 
 
 ---
 
-If you haven't already reviewed the content from the [_Getting Started at Epicodus_](https://new.learnhowtoprogram.com/introduction-to-programming/getting-started-at-epicodus) section before this one, please do so now. Lessons in that section outline general recommendations, expectations and protocol for all Epicodus students and courses.
+If you haven't already reviewed the content from the [_Getting Started at Epicodus_](https://new.learnhowtoprogram.com/pre-work/getting-started-at-epicodus) section before this one, please do so now. Lessons in that section outline general recommendations, expectations and protocol for all Epicodus students and courses.
 
 ## [Your Intro to Programming Course](#your-intro-to-programming-course)
 

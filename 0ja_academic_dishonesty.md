@@ -37,7 +37,7 @@ Academic dishonesty in code can be a little tougher to define than in academic w
 ### [What You May Reference](#what-you-may-reference)
 
 - Your own repos from class, including repositories you worked on with your pairs
-- [LearnHowToProgram.com](https://learnhowtoprogram.com)
+- [LearnHowToProgram.com](/)
 - Official documentation
 - Stack overflow or other online code resources
 

@@ -147,8 +147,8 @@ Once your project is passing all objectives, we will remove the Academic Warning
 
 The student handbook (an upcoming lesson in this pre-work) covers the Academic Warning Policy in detail. Please make sure you have reviewed the following sections and reach out to your instructor or advisor with any questions:
 
-*  [The Academic Warning Policy](https://new.learnhowtoprogram.com/introduction-to-programming/getting-started-at-epicodus/student-handbook#the-academic-warning-policy)
-*  [Failure to meet requirements](https://new.learnhowtoprogram.com/introduction-to-programming/getting-started-at-epicodus/student-handbook#failure-to-meet-requirements)
+*  [The Academic Warning Policy](https://new.learnhowtoprogram.com/student-handbook#the-academic-warning-policy)
+*  [Failure to meet requirements](https://new.learnhowtoprogram.com/student-handbook#failure-to-meet-requirements)
 
 ## [Group Work](#group-work)
 <hr />

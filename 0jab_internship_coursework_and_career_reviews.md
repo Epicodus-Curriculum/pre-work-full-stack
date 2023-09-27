@@ -30,7 +30,7 @@ For these reasons, projects are carefully reviewed to confirm all work is your o
 
 Internship coursework and projects are assigned at different points throughout the program. The schedule for the coursework is listed in the following lessons:
 
-**<span class="glyphicon glyphicon-link"></span> [Full-Time Career Services Schedule](https://new.learnhowtoprogram.com/introduction-to-programming/getting-started-at-epicodus/career-services-schedule)**
+**<span class="glyphicon glyphicon-link"></span> [Full-Time Career Services Schedule](https://new.learnhowtoprogram.com/pre-work/getting-started-at-epicodus/career-services-schedule)**
 
 **<span class="glyphicon glyphicon-link"></span> [Part-Time Career Services Schedule](https://new.learnhowtoprogram.com/introduction-to-programming-part-time/getting-started-at-epicodus/career-services-schedule)**
 
@@ -106,8 +106,8 @@ Once your project is passing all objectives, we will remove the Academic Warning
 
 The student handbook (an upcoming lesson in this pre-work) covers the Academic Warning Policy in detail. Please make sure you have reviewed the following sections and reach out to your instructor or advisor with any questions:
 
-*  [The Academic Warning Policy](https://new.learnhowtoprogram.com/introduction-to-programming/getting-started-at-epicodus/student-handbook#the-academic-warning-policy)
-*  [Failure to meet requirements](https://new.learnhowtoprogram.com/introduction-to-programming/getting-started-at-epicodus/student-handbook#failure-to-meet-requirements)
+*  [The Academic Warning Policy](https://new.learnhowtoprogram.com/student-handbook#the-academic-warning-policy)
+*  [Failure to meet requirements](https://new.learnhowtoprogram.com/student-handbook#failure-to-meet-requirements)
 
 ## [Course Requirements and Expectations](#course-requirements)
 
