@@ -6,7 +6,7 @@ Students who are enrolled in our full-stack programs will brainstorm, plan, and 
 
 Listed below is an outline of capstone-related events that occur in the React course. The bolded titles below correspond to the names of each learning section within the React course.
 
-* **Functional Programming:** Begin brainstorming ideas, [learn about deadlines and resources](https://new.learnhowtoprogram.com/react/functional-programming-with-javascript/capstone-timeline-deadlines-and-brainstorming-homework), and review the [MVP](https://new.learnhowtoprogram.com/react/functional-programming-with-javascript/capstone-planning-the-minimum-viable-product) (Minimum Viable Product).
+* **Functional Programming:** Begin brainstorming ideas, [learn about deadlines and resources](https://new.learnhowtoprogram.com/react-classic/functional-programming-with-javascript/capstone-timeline-deadlines-and-brainstorming-homework), and review the [MVP](https://new.learnhowtoprogram.com/react/functional-programming-with-javascript/capstone-planning-the-minimum-viable-product) (Minimum Viable Product).
 
 * **React Fundamentals:** Narrow down your ideas for your capstone, and learn about the [capstone sign-up and proposal](https://new.learnhowtoprogram.com/react/react-fundamentals/independent-capstone-project-sign-up-and-proposal) that you will complete during the React with Redux course section.
 
