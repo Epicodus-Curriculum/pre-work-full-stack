@@ -49,8 +49,13 @@ lessons:
     filename: 0f_remote_attendance_policy.md
     day: weekend
     type: lesson
-  - title: Career Services Schedule
+  - title: Career Services Schedule (full-time)
     filename: ft20weeks-career-services-master-schedule.md
+    day: weekend
+    type: lesson
+    repo: career-services-full-stack
+  - title: Career Services Schedule (part-time)
+    filename: pt40weeks-career-services-master-schedule.md
     day: weekend
     type: lesson
     repo: career-services-full-stack
