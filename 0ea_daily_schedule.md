@@ -24,7 +24,39 @@ In this lesson, we detail what the typical daily schedule for students usually l
 
 **4:30 pm** The day will end with a retrospective in your dev team. Use this time to show what you worked on, discuss your struggles, give a shout-out, talk what you want to do better tomorrow, share what you enjoyed the most, and so on.
 
-### [Part-Time Students — Sundays](#part-time-students-sundays)
+### [Part-Time Day-time (mornings) Students](#part-time-students-weekdays)
+
+**7:45 am.** Log onto Discord or arrive on campus. Log into your attendance, find your dev team, find a pair, and look over the lessons for the day.
+
+**8:00 am.** Your Dev Team Scrum meeting begins. Make sure that everyone is present and connected (if online) before getting started. If you haven't found a pair, find one during your Dev Team Scrum. Everyone in the group will take a moment to answer each of the following:
+
+1. What did you work on in the previous class session or over the weekend?
+2. What are you working on today?
+3. What blocks are you facing? Is anything standing in your way?
+
+**8:15 am.** Your Cohort Scrum meeting begins. This meeting is led by your instructor and includes your entire cohort. If you are online, your instructor will share the meeting link for Scrum with you. It may take a little time to enter the video call as instructors get set up. If you are in person, your instructor will call you to join Scrum. Scrum often includes important announcements and instructions as well as discussion about key concepts, so it's important to attend.
+
+**8:30 am.** Start pair programming for the evening 
+
+**11:40 am.** The class will end with a retrospective in your dev team. Use this time to show what you worked on, discuss your struggles, give a shout-out, talk what you want to do better tomorrow, share what you enjoyed the most, and so on.
+
+### [Part-Time Day-time (afternoons) Students](#part-time-students-weekdays)
+
+**12:45 pm.** Log onto Discord or arrive on campus. Log into your attendance, find your dev team, find a pair, and look over the lessons for the day.
+
+**1:00 pm.** Your Dev Team Scrum meeting begins. Make sure that everyone is present and connected (if online) before getting started. If you haven't found a pair, find one during your Dev Team Scrum. Everyone in the group will take a moment to answer each of the following:
+
+1. What did you work on in the previous class session or over the weekend?
+2. What are you working on today?
+3. What blocks are you facing? Is anything standing in your way?
+
+**1:15 pm.** Your Cohort Scrum meeting begins. This meeting is led by your instructor and includes your entire cohort. If you are online, your instructor will share the meeting link for Scrum with you. It may take a little time to enter the video call as instructors get set up. If you are in person, your instructor will call you to join Scrum. Scrum often includes important announcements and instructions as well as discussion about key concepts, so it's important to attend.
+
+**1:30 pm.** Start pair programming for the evening 
+
+**4:40 pm.** The class will end with a retrospective in your dev team. Use this time to show what you worked on, discuss your struggles, give a shout-out, talk what you want to do better tomorrow, share what you enjoyed the most, and so on.
+
+### [Part-Time Evening Students — Sundays](#part-time-students-sundays)
 
 **9:00 am.** Log onto Discord or arrive on campus. Log into your attendance, find your dev team, find a pair, and look over the lessons for the day.
 
@@ -44,7 +76,7 @@ In this lesson, we detail what the typical daily schedule for students usually l
 
 **4:30 pm** The day will end with a half hour retrospective in your dev team. Use this time to show what you worked on, discuss your struggles, give a shout-out, talk what you want to do better tomorrow, share what you enjoyed the most, and so on.
 
-### [Part-Time Students — Weekdays](#part-time-students-weekdays)
+### [Part-Time Evening Students — Weekdays](#part-time-students-weekdays)
 
 **5:45 pm.** Log onto Discord or arrive on campus. Log into your attendance, find your dev team, find a pair, and look over the lessons for the day.
 

@@ -38,7 +38,7 @@ Every lesson and exercise has a blue _Feedback_ tab at the bottom right-hand cor
 
 If the tab doesn't show immediately, you may need to scroll down the page for it to pop up. You can click the tab to open up a menu that has tools to help you leave feedback, like highlighting a section of a lesson that needs updating. This is what the window will look like after you click on the _Feedback_ tab:
 
-![Image of learnhowtoprogram.com feedback tool menu.](https://learnhowtoprogram.s3.us-west-2.amazonaws.com/usersnap-LHTP-feedback/LHTP-feedback-tool-menu.png)
+![Image of learnhowtoprogram.com feedback tool menu.](https://learnhowtoprogram.s3.us-west-2.amazonaws.com/pre-work/usersnap-feedback-example.png)
 
 If there is a lesson that really helped grow your understanding or if there is a suggestion you may have for improvement, we value your insight and hope that you will share it with us. We encourage feedback on any issue that comes up — both large and small — whether that is a typo, a passage that is confusing, or an area you feel could use clarification or any other kind of improvement. 
 

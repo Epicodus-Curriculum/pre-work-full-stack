@@ -26,10 +26,10 @@ The next lesson goes into detail about what you can and cannot reference, includ
 
 Keep in mind that failing projects _may be resubmitted._ (see _Resubmission_ below). If you find yourself struggling, don't feel tempted to plagiarize. Do the best you can, and submit what you have. You and your teacher can later work out a plan for revisiting and resubmitting the project. 
 
-## [Schedule for Full-Time Students](#schedule-for-full-time-students)
+## [Schedule for Full-Time and Part-Time Day Students](#schedule-for-full-time-and-part-time-day-students)
 <hr />
 
-If you are a part-time student, skip ahead to the next section.
+The following information is applicable for both full-time and part-time students who participate in classes that occur in the day-time. If you are an **evening** part-time student, you may skip ahead to the next section.
 
 Independent project prompts are published on [Epicenter](https://epicenter.epicodus.com/) each Friday at 8:00 am PST. You can find the prompt by going to the _Courses_ tab, selecting your current course, and then selecting the CR that matches the course section. 
 
@@ -37,7 +37,7 @@ Projects must be submitted through Epicenter by 5 pm PST on the same Friday it w
 
 ![This calendar shows the process for independent project submissions, reviews, and resubmissions for full-time students.](https://learnhowtoprogram.s3.us-west-2.amazonaws.com/INTRO/week1-html-css/remote_images_2021/resubmission-calendar.png)
 
-The calendar above shows the independent project process for the full-time program:
+The calendar above shows the independent project process for the full-time and part-time day programs:
 
 * Every Friday, independent projects are released at 8 am PST and submitted by 5:00 pm PST.
 * Your instructor will review your independent project in the following week. If all objectives are met, you are done!
@@ -46,10 +46,10 @@ The calendar above shows the independent project process for the full-time progr
 * If there are still incomplete objectives at that point, you'll have one more opportunity to fix any remaining problems in the project by 8:00 AM the following Monday seventeen days after the project was initially assigned.
 * If the submission is still not passing, you will likely be asked to leave the program, though you may be invited to try the program again at a later date.
 
-## [Schedule for Part-Time Students](#schedule-for-part-time-students)
+## [Schedule for Part-Time Evening Students](#schedule-for-part-time-evening-students)
 <hr />
 
-If you are a full-time student, skip ahead to the next section.
+If you are a full-time student, or a part-time day-time student, skip ahead to the next section.
 
 Independent project prompts are published on [Epicenter](https://epicenter.epicodus.com/)  on Thursdays at 8:00 am PST, every other week. You can find the prompt by going to the _Courses_ tab, selecting your current course, and then selecting the CR that matches the course section. 
 
@@ -88,7 +88,13 @@ In general, we have the following expectations for independent projects.
 
 * **The completed project must use the provided prompt.** For instance, you cannot simply create your own prompt because you do not want to work on the prompt provided. As an example, if the prompt asks you to create an application for an imaginary storefront, you cannot instead turn in a choose-your-own-adventure application, even if the completed project demonstrates understanding of the course materials.
 
-* **You must work on the project for the specified amount of time, and during the time frame allotted.** For full-time students, students are expected to work 8 hours between 8 am and 5 pm on Friday PST. For part-time students, students are expect to work 4 hours between Thursday at 8 am and the following Sunday at 8 am PST. If you need an exception (for instance, you do not have childcare or have to work during part of the allotted time), you can check in with your instructor about an alternate time to complete the prompt. Exceptions can also be granted for documented emergencies. Note that instructors may use your Git commit history (Git is a tool for tracking changes to code) to help determine whether you spent the full amount of time working on the project.
+* **You must work on the project for the specified amount of time, and during the time frame allotted.** 
+
+    - For full-time students, students are expected to work 8 hours between 8 am and 5 pm on Friday PST. 
+    - For part-time day-time students, students are expected to work 4 hours between Friday at 8 am and the following Monday at 8 am PST.
+    - For part-time evening students, students are expect to work 4 hours between Thursday at 8 am and the following Sunday at 8 am PST.
+
+    If you need an exception (for instance, you do not have childcare or have to work during part of the allotted time), you can check in with your instructor about an alternate time to complete the prompt. Exceptions can also be granted for documented emergencies. Note that instructors may use your Git commit history (Git is a tool for tracking changes to code) to help determine whether you spent the full amount of time working on the project.
 
 * **If you finish your project early, you are still expected to spend the full amount of time working on your project.** See _Further Exploration_ below. Remember that you can always add additional functionality or make an application look nicer. Even if you complete any further exploration objectives early, use the extra time to practice coding and challenge yourself further.
 
@@ -104,9 +110,9 @@ Remember, the purpose of completing these projects isn't _just_ to pass your cou
 ## [Submission](#submission)
 <hr />
 
-**For full-time students,** Independent Projects must be submitted by the end of class on Friday at 5 pm. 
+**For full-time students, and part-time day-time students,** Independent Projects must be submitted by the end of class on Friday at 5 pm. 
 
-**For part-time students,** Independent Projects must be submitted on Sunday by the start of class at 9 am. 
+**For part-time evening students,** Independent Projects must be submitted on Sunday by the start of class at 9 am. 
 
 Before submitting, do a final check for each objective.  Spend a few minutes checking indentation, removing commented-out code, creating a detailed README, etc. Your project should feel polished and complete.
 
@@ -155,9 +161,10 @@ The student handbook (an upcoming lesson in this pre-work) covers the Academic W
 
 You will work in approximately 4-person groups on a cumulative project at the end of the following courses:
 
-* Intermediate JavaScript;
-* Ruby/Rails (for students in the Ruby/Rails track);
-* C#/.NET (for students in the C#/.NET track).
+* React;
+* C#/.NET;
+
+Additionally, there will be a group-form project halfway through the Capstone course, which happens after C#/.NET.
 
 These group projects last for an entire course section. For full-time students, that means one week, and for part-time students that's two weeks. 
 
