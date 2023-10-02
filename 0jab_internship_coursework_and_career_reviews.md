@@ -52,8 +52,8 @@ Projects for the Internship course follow the same submission and resubmission s
 
 Although the dedicated time in class to work on career reviews is usually sufficient to complete a career review, some students take extra time to complete them. These are the deadlines for initial project submissions:
 
-  * **For full-time students,** career reviews must be submitted by 5 pm on Friday.
-  * **For part-time students,** career reviews must be submitted the following Sunday they are assigned at 9 am.
+  * **For full-time students, and part-time day-time** career reviews must be submitted by 5 pm on Friday.
+  * **For part-time evening students,** career reviews must be submitted the following Sunday they are assigned at 9 am.
 
 Some projects don't require a submission, like with mock interviews. In those cases, attending the mock interview at the designated time counts for your submission.
 
@@ -81,8 +81,8 @@ If you are passing objectives, there is nothing more for you to do!
 
 If your advisor finds that you are not passing an objective, they will give you feedback and ask you to complete a resubmission:
 
-  * **For full-time students,** resubmissions are due the Monday 10 days after your initial submission was due, just like with code reviews.
-  * **For part-time students,** resubmissions are due the Sunday after your initial submission was due, just like with code reviews.
+  * **For full-time students, and part-time day-time students** resubmissions are due the Monday 10 days after your initial submission was due, just like with code reviews.
+  * **For part-time evening students,** resubmissions are due the Sunday after your initial submission was due, just like with code reviews.
 
 Your advisor will review your resubmission in the following week. If you are passing objectives, there is nothing more for you to do. If there are still incomplete objectives after your advisor has reviewed your resubmission, you'll have one more opportunity to fix any remaining problems in the project by the final deadline.
 
@@ -92,8 +92,8 @@ The only exception to this resubmission timeline is the mock interview assignmen
 
 Final project deadlines are always due seventeen days after the project was initially assigned:
 
-  * For full-time students, the final deadline is at 8 am on the Monday seventeen days after the project was initially assigned.
-  * For part-time students, the final deadline is at 9 am on the Sunday seventeen days after the project was initially assigned.
+  * For full-time students, and part-time day-time students, the final deadline is at 8 am on the Monday seventeen days after the project was initially assigned.
+  * For part-time evening students, the final deadline is at 9 am on the Sunday seventeen days after the project was initially assigned.
 
 Projects submitted after the final deadline will not be accepted.
 

@@ -62,7 +62,7 @@ If you either show up late to class or leave early from class, this counts as a 
 * _Tardy_ 
 * _Left Early_
 
-**For part-time students, Sundays count as two days of attendance.** 
+**For part-time evening students, Sundays count as two days of attendance.** 
 
 Your goal is to be _On Time_ every day. That said, Epicodus provides a generous amount of allowed absences for you to use for any reason.
 
@@ -76,7 +76,7 @@ Your attendance record will appear on your transcript, which will be sent to int
 
 All students are allowed a certain number of missed class days to use as needed:
 
-* Part-time students have 20 days of allowed absences throughout the entire program. 
+* Part-time (day **and* evening) students have 20 days of allowed absences throughout the entire program. 
 * Full-time students have 10 days of allowed absences throughout the entire program.
 
 Take note that if you are on a deferred payment program, you will have a different agreement with the school. If you are unsure of which payment program or agreement you have with Epicodus, please reach out to your teacher and advisor.
@@ -90,19 +90,23 @@ There are specific time windows that we expect students to sign in and sign out 
 
 ### [Sign In](#sign-in)
 
-Monday through Thursday, **full-time students** need to sign in between 7:30 am – 8:15 am. If you are not signed in by 8:15 am, you will be marked tardy for the class.
+**Full-Time Students:** Your sign-in window will be between 7:30 am - 8:15 am on weekdays, Monday through Thursday. If you are not signed in by 8:15 am, you will be marked tardy for the class.
 
-Monday through Wednesday, **part-time students** need to sign in between 5:30 pm – 6:15 pm. If you are not signed in by 6:15 pm, you will be marked tardy for the class. 
+**Part-Time Day-Time Students (mornings):** Your sign-in window will be between 7:30 am - 8:15 am on weekdays, Monday through Thursday. If you are not signed in by 8:15 am, you will be marked tardy for the class.
 
-On Sundays, **part-time students** need to sign in between 8:30 am – 9:15 am. If you are not signed in by 9:15 am, you will be marked tardy for the class. Since class time is longer and there's more content covered on Sundays, Sundays count as two attendance days.
+**Part-Time Day-Time Students (afternoons):** Your sign-in window will be between 12:30 pm - 1:15 pm on weekdays, Monday through Thursday. If you are not signed in by 1:15 pm, you will be marked tardy for the class.
+
+**Part-Time *Evening* Students:** Your sign-in window will be between 5:30 pm - 6:15 pm on weekdays, Monday through Wednesday. On Sundays, the sign-in windows is between 8:30 am – 9:15 am. If you are not signed in by 6:15 pm on weekdays, or by 9:15 am on Sundays, you will be marked tardy for the class. Since class time is longer and there's more content covered on Sundays, Sundays count as two attendance days.
 
 ### [Sign Out](#sign-out)
 
-Monday through Thursday, **full-time students** need to sign out between 4:45 pm – 5:30 pm. If you are not signed out by 5:30 pm, you will be marked as having left early for the class.
+**Full-Time Students:** Your sign-out window will be between 4:45 pm – 5:30 pm on weekdsays Monday - Thursday. If you are not signed out by 5:30 pm, you will be marked as having left early for the class.
 
-Monday through Wednesday, **part-time students** need to sign out between 8:45 pm – 9:30 pm. If you are not signed out by 9:30 pm, you will be marked as having left early for the class. 
+**Part-Time Day-Time Students (mornings):** Your sign-out window will be between 11:45 am – 12:30 pm on weekdsays Monday - Thursday. If you are not signed out by 12:30 pm, you will be marked as having left early for the class.
 
-On Sundays, **part-time students** need to sign out between 4:45 pm – 5:30 pm. If you are not signed out by 5:30 pm, you will be marked as having left early for the class. Since class time is longer and there's more content covered on Sundays, Sundays count as two attendance days.
+**Part-Time Day-Time Students (afternoons):** Your sign-out window will be between 4:45 pm – 5:30 pm on weekdsays Monday - Thursday. If you are not signed out by 5:30 pm, you will be marked as having left early for the class.
+
+**Part-Time *Evening* Students:** Your sign-out window will be between 8:30 pm - 9:15 pm on weekdays, Monday through Wednesday. On Sundays, the sign-out windows is between 4:45 am – 5:30 pm. If you are not signed out by 9:30 pm on weekdays, or by 5:30 pm on Sundays, you will be marked left early for the class. Since class time is longer and there's more content covered on Sundays, Sundays count as two attendance days.
 
 ## [Pair Feedback](#pair-feedback)
 ---
