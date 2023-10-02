@@ -30,9 +30,9 @@ For these reasons, projects are carefully reviewed to confirm all work is your o
 
 Internship coursework and projects are assigned at different points throughout the program. The schedule for the coursework is listed in the following lessons:
 
-**<span class="glyphicon glyphicon-link"></span> [Full-Time Career Services Schedule](https://new.learnhowtoprogram.com/prework/getting-started-at-epicodus/career-services-schedule)**
+**<span class="glyphicon glyphicon-link"></span> [Full-Time Career Services Schedule](https://new.learnhowtoprogram.com/prework/getting-started-at-epicodus/career-services-schedule-full-time)**
 
-**<span class="glyphicon glyphicon-link"></span> [Part-Time Career Services Schedule](https://new.learnhowtoprogram.com/prework/getting-started-at-epicodus/career-services-schedule)**
+**<span class="glyphicon glyphicon-link"></span> [Part-Time Career Services Schedule](https://new.learnhowtoprogram.com/prework/getting-started-at-epicodus/career-services-schedule-part-time)**
 
 Students will check in with their career services advisor regularly in meetings prior to each project to learn about upcoming assignments. We call these meetings "Career Services Info Sessions", or just "Info Sessions". If you ever have questions about the coursework, reach out to your advisor.
 
