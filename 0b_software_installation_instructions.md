@@ -20,13 +20,13 @@ Regardless of whether you have Windows, Mac, or another OS — or whether your m
 
 All students should follow the instructions in the lesson below to install necessary packages for Introduction to Programming.
 
-* [Installation and Setup](https://pre-work.learnhowtoprogram.com/getting-started-with-intro-to-programming/installation-and-setup)
+* [Installation and Setup](https://new.learnhowtoprogram.com/pre-work/getting-started-with-intro-to-programming/installation-and-setup)
 
 ### [Intermediate JavaScript and React](#intermediate-javascript-and-react)
 
 If you are in a full-stack certificate program at Epicodus, follow the instructions below to install Node.js. Students in the part-time Introduction to Programming course (only 6-weeks) do not need to install Node.js.
 
-* [Installing Node.js](/intermediate-javascript/setting-up-javascript/installing-nodejs)
+* [Installing Node.js](https://new.learnhowtoprogram.com/intermediate-javascript/setting-up-javascript/installing-nodejs)
 
 ### [Ruby and Rails or C# .NET](#ruby-and-rails-or-c-net)
 

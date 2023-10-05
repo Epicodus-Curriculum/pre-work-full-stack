@@ -2,10 +2,10 @@ Take time to ensure all necessary tools are correctly installed on your personal
 
 This is where you can find the setup and installation instructions for each piece of software:
 
-* [Text Editor: VS Code](https://pre-work.learnhowtoprogram.com/getting-started-with-intro-to-programming/text-editor-visual-studio-code).
-* [Command Line](https://pre-work.learnhowtoprogram.com/getting-started-with-intro-to-programming/introduction-to-the-command-line) — Only Windows users will need to install a program to utilize the Command Line. Mac computers should have a built-in program called Terminal, as described in this lesson.
-* [Git and GitHub](https://pre-work.learnhowtoprogram.com/getting-started-with-intro-to-programming/git-and-github).
-* [Git Configurations](https://pre-work.learnhowtoprogram.com/getting-started-with-intro-to-programming/git-configurations).
+* [Text Editor: VS Code](https://new.learnhowtoprogram.com/pre-work/getting-started-with-intro-to-programming/text-editor-visual-studio-code).
+* [Command Line](https://new.learnhowtoprogram.com/pre-work/getting-started-with-intro-to-programming/introduction-to-the-command-line) — Only Windows users will need to install a program to utilize the Command Line. Mac computers should have a built-in program called Terminal, as described in this lesson.
+* [Git and GitHub](https://new.learnhowtoprogram.com/pre-work/getting-started-with-intro-to-programming/git-and-github).
+* [Git Configurations](https://new.learnhowtoprogram.com/pre-work/getting-started-with-intro-to-programming/git-configurations).
 
 ## [We Use the Google Chrome Browser](#we-use-the-chrome-browser)
 
