@@ -50,9 +50,9 @@ There are multiple classes running on the same server. The channels for your cla
 
 In general, you'll have _voice_ channels for:
 
-* Different [dev teams](/pre-work/getting-started-with-intro-to-programming/working-with-a-dev-team) to hold Scrum, solve bugs together, and video chat
+* Different [dev teams](https://pre-work.learnhowtoprogram.com/getting-started-with-intro-to-programming/working-with-a-dev-team) to hold Scrum, solve bugs together, and video chat
 
-* [Pairs](/pre-work/getting-started-at-epicodus/pair-programming) to work together throughout the day pair programming and sharing their screens
+* [Pairs](https://pre-work.learnhowtoprogram.com/getting-started-at-epicodus/pair-programming) to work together throughout the day pair programming and sharing their screens
 
 ### [Text Channels](#text-channels)
 

@@ -20,7 +20,7 @@ Regardless of whether you have Windows, Mac, or another OS — or whether your m
 
 All students should follow the instructions in the lesson below to install necessary packages for Introduction to Programming.
 
-* [Installation and Setup](/pre-work/getting-started-with-intro-to-programming/installation-and-setup)
+* [Installation and Setup](https://pre-work.learnhowtoprogram.com/getting-started-with-intro-to-programming/installation-and-setup)
 
 ### [Intermediate JavaScript and React](#intermediate-javascript-and-react)
 
