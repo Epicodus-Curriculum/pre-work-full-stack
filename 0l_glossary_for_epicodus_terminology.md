@@ -59,7 +59,7 @@ There's a lot to get used to when getting started at Epicodus, so we're hoping t
   * **Cohort Scrum** with your teacher and your entire cohort, often at the start of class.
   * **Dev Team Scrum** just with your dev team. 
 
-**Student handbook.** This is the main reference for all information about Epicodus's philosophy, structure, course requirements, facilities, and policies. Epicodus staff will regularly cite the student handbook's policies, and send you information from the student handbook. If you can't find the information you are looking for, ask any Epicodus staff for help. The [student handbook](/pre-work/student-handbook#the-big-picture) is located in the "Getting Started with Epicodus" pre-work attached to every course. 
+**Student handbook.** This is the main reference for all information about Epicodus's philosophy, structure, course requirements, facilities, and policies. Epicodus staff will regularly cite the student handbook's policies, and send you information from the student handbook. If you can't find the information you are looking for, ask any Epicodus staff for help. The [student handbook](/student-handbook#the-big-picture) is located in the "Getting Started with Epicodus" pre-work attached to every course. 
 
 **Track.** This refers to the program that you are signed up for at Epicodus. There are full-time and part-time tracks. You can find all available tracks by going to [www.learnhowtoprogram.com/courses](/courses).
 

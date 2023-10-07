@@ -20,7 +20,7 @@ We encourage collaboration on career services assignments, like reviewing each o
 
 All of that said, the work you do for these projects must be your own. Don't use sample language or content that you find online for any of your work, and do not copy other students' work.
 
-As explained in our [Student Handbook](/pre-work/student-handbook#academic-honesty), these projects are an opportunity to receive personalized feedback, and to ensure you're developing skills for success after graduation. If you plagiarize work you both lose this valuable opportunity and risk setting yourself up for failure in the job search or interviews. This will not only harm you, but the reputation of all Epicodus students as well.
+As explained in our [Student Handbook](/student-handbook#academic-honesty), these projects are an opportunity to receive personalized feedback, and to ensure you're developing skills for success after graduation. If you plagiarize work you both lose this valuable opportunity and risk setting yourself up for failure in the job search or interviews. This will not only harm you, but the reputation of all Epicodus students as well.
 
 For these reasons, projects are carefully reviewed to confirm all work is your own. **Students found to have plagiarized will be expelled.**
 
@@ -106,8 +106,8 @@ Once your project is passing all objectives, we will remove the Academic Warning
 
 The student handbook (an upcoming lesson in this pre-work) covers the Academic Warning Policy in detail. Please make sure you have reviewed the following sections and reach out to your instructor or advisor with any questions:
 
-*  [The Academic Warning Policy](/pre-work/student-handbook#the-academic-warning-policy)
-*  [Failure to meet requirements](/pre-work/student-handbook#failure-to-meet-requirements)
+*  [The Academic Warning Policy](/student-handbook#the-academic-warning-policy)
+*  [Failure to meet requirements](/student-handbook#failure-to-meet-requirements)
 
 ## [Course Requirements and Expectations](#course-requirements)
 

@@ -1,4 +1,4 @@
-In this lesson, we'll go into detail about how the attendance system and policy works at Epicodus. The content in this lesson can be found in an abbreviated form in [the student handbook's _Attendance_ section](/pre-work/student-handbook#attendance), and it applies to both online students and students who are attending class in-person.
+In this lesson, we'll go into detail about how the attendance system and policy works at Epicodus. The content in this lesson can be found in an abbreviated form in [the student handbook's _Attendance_ section](/student-handbook#attendance), and it applies to both online students and students who are attending class in-person.
 
 Our attendance policy serves to reinforce the everyday expectation that all students engage with their peers, the curriculum, and Epicodus staff. Whether you are studying online or in-person, you are expected to pair, spend the day coding, take part in all meetings with Epicodus staff, and participate in communication on the Discord server or in class as needed. If you have any concerns about being able to meet attendance requirements, talk to your instructor.
 
