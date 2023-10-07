@@ -1,4 +1,4 @@
-Throughout your programing career, and especially while you're just starting out learning, you're going to need help from other people. If you follow these guidelines, you'll find that you'll be able to get help much more quickly.
+Throughout your programming career, and especially while you're just starting out learning, you're going to need help from other people. If you follow these guidelines, you'll find that you'll be able to get help much more quickly.
 
 1. **Break the problem down.** Most difficult problems are actually several smaller problems that aren't so difficult. Is there a smaller piece of the problem you're working on that you could solve?
 

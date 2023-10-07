@@ -1,4 +1,4 @@
-Throughout your programing career, and especially at the beginning, you're going to need help from other people. However, it's important to build up your self-reliance as a developer and to learn by trying to solve problems on your own.
+Throughout your programming career, and especially at the beginning, you're going to need help from other people. However, it's important to build up your self-reliance as a developer and to learn by trying to solve problems on your own.
 
 If you have a question or issue, research as a pair for at least 20 minutes but try to go no more than 30 minutes. It's important to strike a balance between self-reliance and knowing when to ask for help.
 
