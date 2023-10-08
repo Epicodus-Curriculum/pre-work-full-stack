@@ -6,7 +6,7 @@ We've covered a lot of ground in this section of the pre-work and we're almost d
 
 You'll start each new course section in this program by reading that section's objectives. The objectives are designed to give you a general sense of what you'll be covering in the section and to prepare you for that section's independent project. Here are the objectives for the first section:
 
-* [Git, HTML and CSS Objectives](/introduction-to-programming/git-html-and-css-part-2/git-html-&-css-objectives).
+* [Git, HTML and CSS Objectives](/introduction-to-programming/git-html-and-css/git-html-&-css-objectives).
 
 ## [Daily Expectations](#daily-expectations)
 
