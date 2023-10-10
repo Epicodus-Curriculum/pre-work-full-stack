@@ -22,8 +22,6 @@ Online students will use these tools throughout the program. In-person students 
 [Starting a Server](/pre-work/getting-started-with-working-remotely/installing-and-using-vs-code-live-share#starting-a-server)
  
 [Sharing a Server](/pre-work/getting-started-with-working-remotely/installing-and-using-vs-code-live-share#sharing-a-server)
- 
-[Sharing Audio](/pre-work/getting-started-with-working-remotely/installing-and-using-vs-code-live-share#sharing-audio)
 
 [Joining a Live Share Session](/pre-work/getting-started-with-working-remotely/installing-and-using-vs-code-live-share#joining-a-live-share-session)
  
@@ -37,13 +35,12 @@ After you install VS Code, click the four squares on the left side of the screen
  
 ![ Click the 4 squares icon in bottom left of screen.](https://learnhowtoprogram.s3.us-west-2.amazonaws.com/live-share-images/image7.png)
  
-Search for and install **Live Share**. Next, search for and install the VS Code **Live Server extension (by Ritwick Dei)**. Finally, search for and install the **Live Share Audio** extension. It's helpful to know the process of searching for and installing extensions through VS Code, because you will likely want to extend your code editor's functionality with extensions in the future.
+Search for and install **Live Share**. Next, search for and install the VS Code **Live Server extension (by Ritwick Dei)**. It's helpful to know the process of searching for and installing extensions through VS Code, because you will likely want to extend your code editor's functionality with extensions in the future.
 
 Alternatively, you can install and read more about these extensions by visiting their pages on the Visual Studio online marketplace and selecting the option to install:
 
 *  [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
 *  [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
-*  [Live Share Audio](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-audio)
  
 ### [Sharing Code](#sharing-code)
  
@@ -125,12 +122,6 @@ Now, participants can go to the lower left corner of their screen. Under "Shared
 ### [Debugging Live Server](#debuggin-live-server)
  
 Occasionally a server will fail to display your page or will display an error message. If this happens, try finding the specific file you want to serve e.g. index.html and right click. Click the first item in the menu, which should read "Open with Live Server".
- 
-### [Sharing Audio](#sharing-audio)
- 
-If Discord goes down, you can switch to using audio through VS Code Live Share. In the upper right corner, under Session Details, under Audio Call, click "Start audio call". When Discord comes back up, switch back to Discord (so that teachers can visit your audio channel). If you need help from a teacher while Discord is down, submit your VS Code Live Share link in the [Epicodus help queue](https://epicodus-help.firebaseapp.com/).
- 
-![Image shows that you can "Start Audio Call" on left side of screen.](https://learnhowtoprogram.s3.us-west-2.amazonaws.com/live-share-images/image4.png)
 
 ### [Joining a Live Share Session](#joining-a-live-share-session)
 
