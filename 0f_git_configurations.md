@@ -4,7 +4,7 @@ After installing Git, we recommend a few Git configurations that will make using
 
 ---
 
-**Mac users:** To make Git use the VS Code text editor to interact with you instead of **vim** (or whatever your system's default terminal editor may be) run the following command:
+**Mac users:** To make Git use the VS Code text editor to interact with you instead of **vim** (or whatever your system's default terminal editor may be) run the following command within any terminal:
 
 ```
 $ git config --global core.editor "code --wait"
