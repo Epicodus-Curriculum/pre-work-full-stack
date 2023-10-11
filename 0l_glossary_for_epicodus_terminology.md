@@ -61,7 +61,7 @@ There's a lot to get used to when getting started at Epicodus, so we're hoping t
 
 **Student handbook.** This is the main reference for all information about Epicodus's philosophy, structure, course requirements, facilities, and policies. Epicodus staff will regularly cite the student handbook's policies, and send you information from the student handbook. If you can't find the information you are looking for, ask any Epicodus staff for help. The [student handbook](/student-handbook#the-big-picture) is located in the "Getting Started with Epicodus" pre-work attached to every course. 
 
-**Track.** This refers to the program that you are signed up for at Epicodus. There are full-time and part-time tracks. You can find all available tracks by going to [www.learnhowtoprogram.com/tracks](/tracks).
+**Track.** This refers to the program that you are signed up for at Epicodus. There are full-time and part-time tracks. You can find all available tracks by going to <a href="https://www.learnhowtoprogram.com/tracks" target="_self">www.learnhowtoprogram.com/tracks</a>.
 
 **Workshops.**  Also referred to as “DEI workshops”, these are quarterly events facilitated by Epicodus staff to discuss specific topics within diversity, equity, and inclusion. These workshops include a short presentation and a series of breakout sessions in which students group up and discuss prompts. The nature of these workshops is explained when we introduce the DEI curriculum in the lesson [Making Epicodus an Inclusive Place](/diversity-equity-and-inclusion/dei-curriculum-overview/making-epicodus-an-inclusive-place).
 
