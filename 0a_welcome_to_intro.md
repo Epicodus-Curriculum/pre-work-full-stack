@@ -18,6 +18,6 @@ However, please note **you are not required to memorize code or vocabulary as yo
 
 ---
 
-Before arriving for your first day of class, work through all lessons in this section. They'll cover using something called a **command line** and a piece of software we'll use in every class called **Visual Studio Code**. (Don't worry, lessons after this one will explain more.)
+Before arriving for your first day of class, work through all lessons in this section. They'll cover using something called a **command line** and a piece of software we'll use in every class called **Visual Studio Code**. (Don't worry, lessons after this one will explain more!)
 
 Oh, and don't forget to bring your questions, ideas, curiosity, and enthusiasm to class! The adventure begins... we're so happy you're here!
